@@ -28,7 +28,8 @@ paru -S aur/engauge
 ## Tools:
 
 - Python 3.12+
-- Libraries: `pandas` (data), `scipy` (optimization), `numpy` (math)
+- Libraries: `pandas` (data), `scipy` (optimization), `numpy` (math),
+  `matplotlib` (viz)
 
 ## Procedure:
 
